@@ -1,0 +1,10 @@
+C:\Users\Hac Kerton\source\repos\csharp-hello-world\csharp-hello-world\bin\Debug\csharp-hello-world.exe.config
+C:\Users\Hac Kerton\source\repos\csharp-hello-world\csharp-hello-world\bin\Debug\csharp-hello-world.exe
+C:\Users\Hac Kerton\source\repos\csharp-hello-world\csharp-hello-world\bin\Debug\csharp-hello-world.pdb
+C:\Users\Hac Kerton\source\repos\csharp-hello-world\csharp-hello-world\obj\Debug\csharp-hello-world.csprojResolveAssemblyReference.cache
+C:\Users\Hac Kerton\source\repos\csharp-hello-world\csharp-hello-world\obj\Debug\csharp_hello_world.Form1.resources
+C:\Users\Hac Kerton\source\repos\csharp-hello-world\csharp-hello-world\obj\Debug\csharp_hello_world.Properties.Resources.resources
+C:\Users\Hac Kerton\source\repos\csharp-hello-world\csharp-hello-world\obj\Debug\csharp-hello-world.csproj.GenerateResource.Cache
+C:\Users\Hac Kerton\source\repos\csharp-hello-world\csharp-hello-world\obj\Debug\csharp-hello-world.csproj.CoreCompileInputs.cache
+C:\Users\Hac Kerton\source\repos\csharp-hello-world\csharp-hello-world\obj\Debug\csharp-hello-world.exe
+C:\Users\Hac Kerton\source\repos\csharp-hello-world\csharp-hello-world\obj\Debug\csharp-hello-world.pdb
